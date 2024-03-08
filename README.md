@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&custom_title=Allan's%20GitHub%20Status)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 <h2 align="center">
 	Here are My Main Skills<br /><br />
 	<a href=""https://skillicons.dev>
