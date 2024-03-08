@@ -1,5 +1,14 @@
-### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<h2 align="center">
+	Here are My Main Skills<br /><br />
+	<a href=""https://skillicons.dev>
+		<img src="https://skillicons.dev/icons?i=js,ts,php,py,cs,html,css" />
+		<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sass,jquery,bootstrap,git" />
+		<img src="https://skillicons.dev/icons?i=react,next,angular,vue,nodejs,express,nest" />
+		<img src="https://skillicons.dev/icons?i=laravel,django,electron,flutter,dart,tailwindcss,materialui" />
+		<img src="https://skillicons.dev/icons?i=aws,gcp,docker,figma,xd,github,bitbucket" />
+		<img src="https://skillicons.dev/icons?i=vscode,visualstudio,unity,androidstudio,idea,webstorm,postman" />
+	</a>
+</h2>
 <!--
 **Ualladev/Ualladev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
